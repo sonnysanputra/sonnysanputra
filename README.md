@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 About Me
+### 🤓 About Me
 
 - 🎓 Year 2 **Computer Science** student @ **Asia Pacific University (APU)**
 - 🧠 Specializing in **Artificial Intelligence workflows**
@@ -70,15 +70,6 @@ If there's a hackathon happening, I want in. I live for the late-night sprints, 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonnysanputra&show_icons=true&theme=tokyonight&hide_border=true" alt="Sonny's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnysanputra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🌱 Currently Learning
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -99,3 +90,4 @@ Picking up **Go** for backend and cloud-native services. Next on the list, more 
 </p>
 
 > Got an AI agent idea or a hackathon team forming? **Let's build something wild.** 🚀
+
