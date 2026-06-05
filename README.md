@@ -5,26 +5,17 @@
 
 ---
 
-### 🧐 About Me
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF0ZHAyY3J6MmV4cm1mNWJqdjhmY3g3d2g2Zjc5ZjE0dWZ3OHhnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="500" alt="AI pixel art" />
+</p>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+### 🧐 About Me
 
 - 🎓 Year 2 **Computer Science** student @ **Asia Pacific University (APU)**
 - 🧠 Specializing in **Artificial Intelligence workflows**
 - 🤖 Actively building **AI Agent systems** to push automation forward
 - 📡 Spend my free time reading research papers and tracking the latest moves in the AI sector
 - 💬 Always down for a chat about agents, automation, or anything AI
-
-</td>
-<td valign="top" width="40%">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF0ZHAyY3J6MmV4cm1mNWJqdjhmY3g3d2g2Zjc5ZjE0dWZ3OHhnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="100%" alt="AI pixel art" />
-
-</td>
-</tr>
-</table>
 
 ### ⚡ What I'm Working On
 
