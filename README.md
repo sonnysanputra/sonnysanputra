@@ -1,11 +1,11 @@
-<h1 align="center">Hey there, I'm Sonny! 👋</h1>
+<h1 align="center">Oui, I'm Sonny! 😎👋</h1>
 <p align="center">
   <em>CS Student · AI Agents Enthusiast · Hackathon Hunter 🏆</em>
 </p>
 
 ---
 
-### 🤓 About Me
+### 🧐 About Me
 
 - 🎓 Year 2 **Computer Science** student @ **Asia Pacific University (APU)**
 - 🧠 Specializing in **Artificial Intelligence workflows**
